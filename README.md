@@ -2,7 +2,7 @@
 
 ![LLM4Math Roadmap](https://raw.githubusercontent.com/ZhongLIFR/awesome-AI4Math-resources/main/Pic/llm4math-roadmap.png)
 
-> The roadmap of LLMs for Math. (The figure is adapted from the [survey paper](https://arxiv.org/abs/2412.11936))
+> The roadmap of LLMs for Math, where the figure is taken from the [survey paper](https://arxiv.org/abs/2412.11936)).
 
 ## Table of Main Contents
 
