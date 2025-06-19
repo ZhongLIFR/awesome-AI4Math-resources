@@ -1,8 +1,10 @@
 # AI for Mathematics (AI4Math) Resources 
 
-![LLM4Math Roadmap](https://raw.githubusercontent.com/ZhongLIFR/awesome-AI4Math-resources/main/Pic/llm4math-roadmap.png)
+<figure>
+  <img src="https://raw.githubusercontent.com/ZhongLIFR/awesome-AI4Math-resources/main/Pic/llm4math-roadmap.png" alt="LLM4Math Roadmap" width="700"/>
+  <figcaption align="center"><b>Figure:</b> A roadmap of LLMs for math reasoning,  where the figure is taken from [this survey paper](https://arxiv.org/abs/2412.11936).</figcaption>
+</figure>
 
-> The roadmap of LLMs for Math, where the figure is taken from [this survey paper](https://arxiv.org/abs/2412.11936).
 
 ## Table of Main Contents
 
