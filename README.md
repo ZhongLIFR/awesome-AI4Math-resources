@@ -31,10 +31,10 @@
 | [Minerva](https://arxiv.org/abs/2206.14858)                         | Google                             | Jun 2022         | NeurIPS'22       |
 | [JiuZhang 1.0](https://arxiv.org/pdf/2206.06315)                    | RUC & iFLYTEK                      | Jun 2022         | KDD'22           |
 | [GAIRMath-Abel](https://gair-nlp.github.io/abel/)                   | Shanghai Jiaotong University       | 2023             | -                |
-| JiuZhang 2.0                    | RUC & iFLYTEK                      | 2023             | KDD ADS'23       |
-| KwaiYiiMath                     | Kuaishou                           | Jan 2023         | -                |
-| MathCoder                       | CUHK                               | Jan 2023         | ICLR'24          |
-| Llemma                          | Princeton University & Eleuther AI | Jan 2023         | -                |
+| [JiuZhang 2.0](https://dl.acm.org/doi/pdf/10.1145/3580305.3599850)                    | RUC & iFLYTEK                      | 2023             | KDD ADS'23       |
+| [KwaiYiiMath](https://arxiv.org/pdf/2310.07488)                     | Kuaishou                           | Jan 2023         | -                |
+| [MathCoder](https://arxiv.org/abs/2310.03731)                       | CUHK                               | Jan 2023         | ICLR'24          |
+| [Llemma](https://arxiv.org/abs/2310.10631)                          | Princeton University & Eleuther AI | Jan 2023         | -                |
 | Skywork-13B-Math                | SkyworkAI                          | Jan 2023         | -                |
 | MathGPT                         | TAL Education Group                | Aug 2023         | -                |
 | WizardMath                      | Microsoft                          | Aug 2023         | ICLR'25          |
