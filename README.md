@@ -1,6 +1,6 @@
 # AI for Mathematics (AI4Math) Resources 
 
-![LLM4Math Roadmap](https://raw.githubusercontent.com/ZhongLIFR/awesome-AI4Math-resources/main/Pic/llm4math-roadmap.pdf)
+![LLM4Math Roadmap](https://raw.githubusercontent.com/ZhongLIFR/awesome-AI4Math-resources/main/Pic/llm4math-roadmap.png)
 
 > 📌 **Note**: The figure is adapted from the survey paper:
 > **Yan, Yibo, et al.** *"A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges."* arXiv preprint [arXiv:2412.11936](https://arxiv.org/abs/2412.11936) (2024).
