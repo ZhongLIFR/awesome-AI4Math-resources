@@ -112,11 +112,11 @@
 
     *Janice Ahn, Rishu Verma, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin*
 
-- **Natural Language Reasoning, A Survey.** *CSUR 2024* [[pdf]([https://arxiv.org/abs/2503.17726](https://arxiv.org/abs/2303.14725))]
+- **Natural Language Reasoning, A Survey.** *CSUR 2024* [[pdf](https://arxiv.org/abs/2503.17726](https://arxiv.org/abs/2303.14725)]
 
     *Fei Yu, Hongbo Zhang, Prayag Tiwari, Benyou Wang*
 
-- **Is Neuro-Symbolic AI Meeting its Promise in Natural Language Processing? A Structured Review.** *Web Semantic 2024* [[pdf]([https://journals.sagepub.com/doi/10.3233/SW-223228))]
+- **Is Neuro-Symbolic AI Meeting its Promise in Natural Language Processing? A Structured Review.** *Web Semantic 2024* [[pdf](https://journals.sagepub.com/doi/10.3233/SW-223228)]
 
     *Kyle Hamilton, Aparna Nayak, Bojan Božić, Luca Longo*
   
